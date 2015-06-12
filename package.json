@@ -1,0 +1,30 @@
+{
+  "name": "watch-dog",
+  "version": "1.0.0",
+  "description": "Simple NodeJS file watcher.",
+  "main": "lib/Watcher.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kbscript/watch-dog.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "File",
+    "Watcher",
+    "Recursive",
+    "Simple",
+    "Large"
+  ],
+  "author": "Kevin Barnett <kevinbarnett5506@gmail.com>",
+  "license": "https://github.com/kbscript/watch-dog/blob/master/LICENSE",
+  "bugs": {
+    "url": "https://github.com/kbscript/watch-dog/issues"
+  },
+  "homepage": "https://github.com/kbscript/watch-dog"
+}
