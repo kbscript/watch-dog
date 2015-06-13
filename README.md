@@ -31,7 +31,7 @@ npm install watcher
   
 #### Options
   
-##### recurisvie
+##### recursive
   
 Enable or disable a recursive watch on a directory.  If a file path is passed instead of a dir path then this is ignored.  Defaults to true.
   
